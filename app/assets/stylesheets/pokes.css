@@ -1,0 +1,33 @@
+body {
+  display: flex;
+}
+
+.container {
+  margin: 0 auto;
+  padding-top: 2em;
+}
+
+.container h2 {
+  text-align: center;
+}
+
+.slideShow {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.slideShow h3 {
+  text-align: center;
+}
+
+.slideShow img {
+  max-width: 500px;
+  max-height: 300px;
+}
+.slideShow h4 {
+  text-align: center;
+}
+
+.slideShow button {
+  margin: 0 auto;
+}
